@@ -48,3 +48,10 @@ mdi-spin will make mdi icons spin (based awesomeness)
 
 ctrl d selects everything down with the same title
 
+title="text" will add a title to your button/element you put it on so screen readers can read it
+
+marquee behavior ="alternate" will make the thing you marqueed bounce side to side
+scrollamount="" will change his speed
+
+role="" will make things act like other things
+example: role="button" on a p tag will make that text act like a button

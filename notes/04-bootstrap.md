@@ -72,3 +72,5 @@ day 4
 you can put rows in columns to make positioning inside the column easier
 d-none d-md-block will hide display of object on mobile but show it on everything else
 
+
+class"h-100" will make the thing you put it on 100% of its parent class 

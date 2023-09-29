@@ -86,4 +86,7 @@ this will also center the button when it goes to mobile view at the same time it
 
 lighthouse can help with fixing accessability issues (on google console thing)
 
+user-select: non will make it so you cant highlight the thing you put it on
+*{} this will let you access everything on the page
+
 
