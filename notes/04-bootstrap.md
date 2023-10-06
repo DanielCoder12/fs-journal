@@ -74,3 +74,6 @@ d-none d-md-block will hide display of object on mobile but show it on everythin
 
 
 class"h-100" will make the thing you put it on 100% of its parent class 
+
+
+rounded-pill will make buttons extra round
