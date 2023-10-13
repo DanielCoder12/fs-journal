@@ -77,3 +77,9 @@ class"h-100" will make the thing you put it on 100% of its parent class
 
 
 rounded-pill will make buttons extra round
+
+rounded-start to round just the left side of an image
+this is huge, we are so back after finding this out
+rounded-circle is another thing you can do, also big
+
+you can do btn-outline

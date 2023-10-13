@@ -137,8 +137,68 @@ returns something called a promise
 
 add async before your method and put await before pop.confirm if you want the promise to be resolved before continuing to run code 
 
-
-
 selectionRange(start, end) can make the users cursor go where you want when a function happens
 
 offcanvases don't go inside your main they go outside of it
+
+
+
+API
+Application Programming Interface
+defines how two applications communicate with eachother using requests and responses
+
+
+
+promises take in an executor to either resolve or reject 
+use async and await to let a promise resolve before you run code past it
+important for api's 
+
+CRUD
+Create Read Update Delete
+
+create- http post
+read - http get
+update - http put
+destroy - http delete
+
+
+use a try catch for any method that will deal with an api
+script axios in the html to bring axios into javascript
+
+service handles the getting information from the api
+
+await getMonsters(){
+const response = await axios.get('api link')
+}
+this makes a request to your api to get the information from it
+
+use .map to make new objects from your api
+
+authentication strings are in the codeworks sandbox
+put them in the env.js
+
+apt.get('link') is a shortened version of axios.get('link')
+
+in service
+async createCar(carFormData){
+    const res = await api.post('api/cars', carFormData) adding the data from your form into the api
+}
+
+async removeCar(carId){
+    const res = api.delete(`api/cars/${carId}`) this will delete the car with that id, you can only delete cars you made or you'll get a 403
+}
+
+
+static means a function now statically exists only on the definition of a class
+static get CarFormTemplate
+now you can do Car.CarFormTemplate
+
+
+timeout: 8000 if api response doesn't come back within 8 seconds or time cap you put it'll throw an error
+
+.put('link', payload) updates data in the api
+
+:D
+
+
+

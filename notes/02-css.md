@@ -89,4 +89,11 @@ lighthouse can help with fixing accessability issues (on google console thing)
 user-select: non will make it so you cant highlight the thing you put it on
 *{} this will let you access everything on the page
 
+overflow-y: scroll;
+anything that overflows on the y axis now turns into a scroll
+
+transition: 
+cursor:
+
+.nasa-title:hover + .nasa-description{} <- siblings on the html, when you hover over nasa title nasa descriptions css changes
 

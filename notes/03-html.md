@@ -55,3 +55,9 @@ scrollamount="" will change his speed
 
 role="" will make things act like other things
 example: role="button" on a p tag will make that text act like a button
+
+<br></br> break tags will break paragraphs up into multiple paragraphs for you
+
+input with type date will give you a date picker
+you can add min and max dates to this
+use onchange instead of onclick for date pickers 

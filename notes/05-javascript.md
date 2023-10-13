@@ -425,3 +425,11 @@ innerMarquee = animalElement.querySelector ('marquee>marquee') selects marquee t
 .setAttribute can change or assign new attributes to html from javascript
 outerMarquee.setAttribute('scrollamount', '1')
 innerMarquee.setAttribute('scrollamount', '1')
+
+
+typeof command looks at the thing to the right of it and returns what is is such as a string or number 
+
+
+? true : false
+
+use this more its really good 
