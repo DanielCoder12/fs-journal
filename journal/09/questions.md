@@ -1,7 +1,7 @@
 # Working in a Professional Environment
 01. What is Inheritance?
 
-> | ANSWER HERE |
+> | one class inherits the attributes and methods of another class  |
 
 02. What is the `Singleton` design pattern?
 
