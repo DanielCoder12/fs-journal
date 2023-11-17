@@ -38,4 +38,4 @@ as a user i can make and delete comments on other peoples posts |
 
 10. In which of these ceremonies are Tasks assigned to you?
 
-> | ANSWER HERE |
+> | sprint planning |
