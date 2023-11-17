@@ -13,15 +13,15 @@
 
 04. What is the `Strategy` design pattern?
 
-> | ANSWER HERE |
+> | defining a family of algorithms, putting them in separate classes and making their objects interchangeable  |
 
 05. What is the `Factory` design pattern?
 
-> | ANSWER HERE |
+> | a design pattern that allows you to create objects in a superclass but allows subclasses to alter the type of object that gets created |
 
 06. What is test driven development?
 
-> | ANSWER HERE |
+> | development that focuses on creating a bunch of test cases before starting to write code |
 
 07. In Scrum/Agile what is the DoD?
 
@@ -34,7 +34,7 @@ as a user i can make and delete comments on other peoples posts |
 
 09. During which ceremony is your Sprint Backlog created?
 
-> | ANSWER HERE |
+> | sprint planning  |
 
 10. In which of these ceremonies are Tasks assigned to you?
 
